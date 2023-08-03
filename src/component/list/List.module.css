@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  color: white;
+  white-space: nowrap;
+}
+
+.wrapper {
+  width: calc(100% - 2em);
+  padding: 1em;
+  border-radius: 1em;
+  background-color: rgb(4, 52, 99);
+  overflow-x: auto;
+}

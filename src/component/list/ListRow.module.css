@@ -1,0 +1,9 @@
+.cell {
+  background-color: #dddddd57;
+  cursor: pointer;
+}
+
+.cell:hover,
+.cell[data-selected=true] {
+  background-color: #ddddddaf;
+}
